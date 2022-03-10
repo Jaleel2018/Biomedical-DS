@@ -122,16 +122,6 @@ ans = pd.DataFrame([train_accuracy1,val_accuracy1,relu_train_accuracy1,
                     'relu_val_accuracy1','train_accuracy2','val_accuracy2',
                     'relu_train_accuracy2','relu_val_accuracy2'])
 print(ans)
-"""
-print('First tanh Train Accuracy' + train_accuracy1)
-print('First tanh Validation Accuracy' + val_accuracy1)    
-print('First rely train accuracy' +relu_train_accuracy1)
-print('first relu validation accuracy' + relu_val_accuracy1)  
-print(train_accuracy2)
-print(val_accuracy2)    
-print(relu_train_accuracy2)
-print(relu_val_accuracy2)  
-"""
 
 
 
